@@ -1,3 +1,5 @@
+import Image from "./Image"
+
 interface props {
   children?: React.ReactNode,
   icon: string,
@@ -11,7 +13,7 @@ interface props {
 const NewsItem = ({ icon, text }: props) => {
   return (
     <div className="short-news-item">
-      <img src={icon} />
+      <Image srcImg={icon} width={20} height={20} />
       <p>{text}</p>
     </div>
   )

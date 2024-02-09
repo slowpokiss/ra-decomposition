@@ -12,31 +12,31 @@ export default function App() {
         <header>
           <div className="short-news">
             <NewsItem
-              icon="./img/free-icon-world-wide-web-1006771"
+              icon="https://static.thenounproject.com/png/431498-200.png"
               text="Lorem ipsum dolor sit, amet consectetur adipisicing."
             />
             <NewsItem
-              icon="./img/free-icon-world-wide-web-1006771"
+              icon="https://static.thenounproject.com/png/431498-200.png"
               text="Lorem ipsum dolor sit, amet consectetur adipisicing."
             />
             <NewsItem
-              icon="./img/free-icon-world-wide-web-1006771"
+              icon="https://static.thenounproject.com/png/431498-200.png"
               text="Lorem ipsum dolor sit, amet consectetur adipisicing."
             />
             <NewsItem
-              icon="./img/free-icon-world-wide-web-1006771"
+              icon="https://static.thenounproject.com/png/431498-200.png"
               text="Lorem ipsum dolor sit, amet consectetur adipisicing."
             />
             <NewsItem
-              icon="./img/free-icon-world-wide-web-1006771"
+              icon="https://static.thenounproject.com/png/431498-200.png"
               text="Lorem ipsum dolor sit, amet consectetur adipisicing."
             />
           </div>
           <div className="container-header">
             <Image
-              width={100}
-              height={100}
-              srcImg="https://images.pexels.com/photos/8642000/pexels-photo-8642000.jpeg"
+              width={120}
+              height={120}
+              srcImg="https://urban-media.ru/upload/resize_cache/iblock/de5/sjh3z7ikpk3ngqv4vc1je9x2w5atd7rc/600_600_1/shkola-39.jpg"
             />
             Смотрите на Яндексе
             <Link href="#" classic="link">
@@ -72,8 +72,8 @@ export default function App() {
           <div className="banner-area">
             <Image
               width={500}
-              height={100}
-              srcImg="https://images.pexels.com/photos/8642000/pexels-photo-8642000.jpeg"
+              height={150}
+              srcImg="https://insideok.ru/wp-content/uploads/2022/06/top_kinoreliz-min.jpg"
             />
           </div>
           <div className="helpfull-link-area">
